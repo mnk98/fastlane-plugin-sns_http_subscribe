@@ -1,0 +1,3 @@
+lane :test do
+  sns_http_subscribe
+end
