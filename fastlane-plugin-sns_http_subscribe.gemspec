@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'mnk.alwar@gmail.com'
 
   spec.summary       = 'Subscribe to sns topic using http/https endpoint'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-sns_http_subscribe"
+  spec.homepage      = "https://github.com/mnk98/fastlane-plugin-sns_http_subscribe"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
